@@ -1,2 +1,3 @@
 # songbird_areax
-Resources for songbird areax single nuclei RNA-seq data analysis
+Resources for songbird Area X single nuclei RNA-seq data analysis
+
