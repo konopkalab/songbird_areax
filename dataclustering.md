@@ -206,8 +206,8 @@ First, data are loaded from the Scrambled and Knockdown groups following the pro
 
 ```
 #LOAD DATA
-#INTERNAL NAME FOR SCRAMBLED GROUP IS "MCX20C"
-MCX20C <- 
+#INTERNAL NAME FOR SCRAMBLED GROUP IS "MCX20_C"
+MCX20_C <- 
   Read10X("MCX20_C")
 
 MCX20_C_seurat <-
