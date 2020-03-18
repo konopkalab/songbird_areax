@@ -1,1 +1,2 @@
 *.txt filter=lfs diff=lfs merge=lfs -text
+MCX20_C_counttable.txt filter=lfs diff=lfs merge=lfs -text
