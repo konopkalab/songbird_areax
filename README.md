@@ -25,5 +25,5 @@ Xiao, L., Merullo, D. P., Cao, M., Co, M., Kulkarni, A., Konopka, G., & Roberts,
     - avg_logFC: log fold-change of the average expression between the two groups. Positive values indicate that the feature is more highly expressed in the first group<br>
     - pct.1: The percentage of cells where the feature is detected in the first group<br>
     - pct.2: The percentage of cells where the feature is detected in the second group<br>
-    - p_val_adj : Adjusted p-value, based on bonferroni correction using all features in the dataset.
+    - p_val_adj : Adjusted p-value, based on bonferroni correction using all features in the dataset
   
