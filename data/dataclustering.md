@@ -186,7 +186,7 @@ write.table(
 
 
 
-#DATA CLUSTERING FOR INTEGRATED DATA
+**DATA CLUSTERING FOR INTEGRATED DATA**
 
 First, data are loaded from the Scrambled and Knockdown groups following the process described above. 
 
