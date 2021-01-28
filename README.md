@@ -5,13 +5,13 @@ Xiao, L., Merullo, D. P., Cao, M., Co, M., Kulkarni, A., Konopka, G., & Roberts,
 
 # Directories and Files
 
-MCX20: Raw data for the scrambled control group (CS-shScr).
-MCX21: Raw data for the experimental FoxP2 knockdown group (CS-shFoxP2).
-dataclustering.md: Markdown file of R code for analysis.
-MCX20_C_counttable.txt: Table of information exported from Seurat object used for analysis of the CS-shScr dataset. 
-  --Cell: Individual cell barcode
-  --UMIs: Number of unique molecular identifiers
-  --Genes: Number of genes
-  --Percent Mito Genes: Percentage of genes that are mitochondrial genes
-  --All other columns: mRNA transcript counts for each gene
+MCX20: Raw data for the scrambled control group (CS-shScr).  
+MCX21: Raw data for the experimental FoxP2 knockdown group (CS-shFoxP2).  
+dataclustering.md: Markdown file of R code for analysis.  
+MCX20_C_counttable.txt: Table of information exported from Seurat object used for analysis of the CS-shScr dataset.   
+  --Cell: Individual cell barcode. 
+  --UMIs: Number of unique molecular identifiers  
+  --Genes: Number of genes  
+  --Percent Mito Genes: Percentage of genes that are mitochondrial genes  
+  --All other columns: mRNA transcript counts for each gene  
   
