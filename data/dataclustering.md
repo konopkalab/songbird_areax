@@ -1,4 +1,4 @@
-#DATA CLUSTERING FOR SCRAMBLED GROUP
+**DATA CLUSTERING FOR SCRAMBLED GROUP**
 
 This script clusters the data from the Scrambled group. The Seurat pipeline (v3.0) is used to filter, normalize, scale, cluster, and identify gene markers. 
 
