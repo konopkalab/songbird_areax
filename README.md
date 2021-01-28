@@ -16,6 +16,6 @@ MCX20_C_counttable.txt: Table of information exported from Seurat object used fo
   --UMIs: Number of unique molecular identifiers<br>
   --Genes: Number of genes<br>
   --Percent Mito Genes: Percentage of genes that are mitochondrial genes<br>
-  --Cluster: Assigned cluster from Seurat analysis
+  --Cluster: Assigned cluster from Seurat analysis<br>
   --All other columns: mRNA transcript counts for each gene<br>
   
