@@ -432,7 +432,7 @@ MCX_COMBINED_C_seurat_clusterplot <-
     label = TRUE)
 
 save(
-  MCXC__seurat,
-  file = "MCX_C_seurat.RData"
+  MCX_COMBINED_C_seurat,
+  file = "MCX_COMBINED_C_seurat.RData"
 )
 ```
