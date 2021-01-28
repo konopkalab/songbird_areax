@@ -5,9 +5,9 @@ Xiao, L., Merullo, D. P., Cao, M., Co, M., Kulkarni, A., Konopka, G., & Roberts,
 
 # Directories
 
-- MCX20: Raw data for the scrambled control group (CS-shScr) to be loaded with ```Read10X``` in Seurat. 
+- MCX20: Raw data for the scrambled control group (CS-shScr) to be loaded with `Read10X` in Seurat. 
 
-- MCX21: Raw data for the experimental FoxP2 knockdown group (CS-shFoxP2) to be loaded with ```Read10X``` in Seurat. 
+- MCX21: Raw data for the experimental FoxP2 knockdown group (CS-shFoxP2) to be loaded with `Read10X` in Seurat. 
 
 - data:<br>
   - dataclustering.md: Markdown file of R code for analysis.
