@@ -11,7 +11,7 @@ MCX21: Raw data for the experimental FoxP2 knockdown group (CS-shFoxP2).
 
 dataclustering.md: Markdown file of R code for analysis.
 
-MCX20_C_counttable.txt: Table of information exported from Seurat object used for analysis of the CS-shScr dataset.<br>     
+MCX20_C_counttable.txt: Table of information exported from Seurat object used for analysis of the CS-shScr dataset.      
   --Cell: Individual cell barcode<br>
   --UMIs: Number of unique molecular identifiers<br>
   --Genes: Number of genes<br>
