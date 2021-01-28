@@ -21,8 +21,8 @@ Xiao, L., Merullo, D. P., Cao, M., Co, M., Kulkarni, A., Konopka, G., & Roberts,
     - All other columns: mRNA transcript counts for each gene
   
   - MCX_COMBINED_C_seurat_FOXP2_markers.csv: Table of differentially expressed genes in FoxP2+ cells between CS-shScr and CS-shFoxP2 groups. [See the Seurat vignette on differential expression testing for column meanings](https://satijalab.org/seurat/v3.0/de_vignette.html):  
-    - p_val: unadjusted p-value<br>
-    - avg_logFC: log fold-change of the average expression between the two groups. Positive values indicate that the feature is more highly expressed in the first group<br>
+    - p_val: Unadjusted p-value<br>
+    - avg_logFC: Log fold-change of the average expression between the two groups. Positive values indicate that the feature is more highly expressed in the first group<br>
     - pct.1: The percentage of cells where the feature is detected in the first group<br>
     - pct.2: The percentage of cells where the feature is detected in the second group<br>
     - p_val_adj : Adjusted p-value, based on bonferroni correction using all features in the dataset
