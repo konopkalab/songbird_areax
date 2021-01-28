@@ -5,7 +5,7 @@ Xiao, L., Merullo, D. P., Cao, M., Co, M., Kulkarni, A., Konopka, G., & Roberts,
 
 # Directories and Files
 
-MCX20: Raw data for the scrambled control group (CS-shScr).  
+<p>MCX20: Raw data for the scrambled control group (CS-shScr).</p>
 MCX21: Raw data for the experimental FoxP2 knockdown group (CS-shFoxP2).  
 dataclustering.md: Markdown file of R code for analysis.  
 MCX20_C_counttable.txt: Table of information exported from Seurat object used for analysis of the CS-shScr dataset.   
