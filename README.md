@@ -10,8 +10,8 @@ Xiao, L., Merullo, D. P., Cao, M., Co, M., Kulkarni, A., Konopka, G., & Roberts,
 - MCX21: Raw data for the experimental FoxP2 knockdown group (CS-shFoxP2) to be loaded with `Read10X` in Seurat. 
 
 - data:<br>
-  - dataclustering.md: Markdown file of R code to create Seurat objects from raw data. Processed Seurat objects can be downloaded [at this link](https://cloud.biohpc.swmed.edu/index.php/s/nLicEtkmjGGmRF8).
+  - 01-dataclustering.md: Markdown file of R code to create Seurat objects from raw data. Processed Seurat objects can be downloaded [at this link](https://cloud.biohpc.swmed.edu/index.php/s/nLicEtkmjGGmRF8).
   
-  - code: R code to produce all figures (main and supplementary) in the accompanying study. 
+  - 02-code: R code to produce all figures (main and supplementary) in the accompanying study. 
   
   - All other files: Processed output from analyses; to be loaded when needed when running code. 
