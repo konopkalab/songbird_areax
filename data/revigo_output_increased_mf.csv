@@ -1,0 +1,69 @@
+term_ID,description,frequency,plot_X,plot_Y,plot_size,log10 p-value,uniqueness,dispensability,representative,eliminated
+GO:0005085,"guanyl-nucleotide exchange factor activity",0.244%, 1.245, 7.249,4.537,-5.2455,0.831,0.000,5085,0
+GO:0005089,"Rho guanyl-nucleotide exchange factor activity",0.108%,null,null,4.181,-1.8058,0.824,0.889,5085,1
+GO:0030695,"GTPase regulator activity",0.206%,null,null,4.463,-2.7095,0.824,0.729,5085,1
+GO:0005088,"Ras guanyl-nucleotide exchange factor activity",0.128%,null,null,4.255,-5.2455,0.825,0.701,5085,1
+GO:0005096,"GTPase activator activity",0.176%,null,null,4.394,-2.2637,0.825,0.927,5085,1
+GO:0060589,"nucleoside-triphosphatase regulator activity",0.296%,null,null,4.620,-2.0686,0.825,0.786,5085,1
+GO:0008047,"enzyme activator activity",0.308%,null,null,4.637,-1.5479,0.825,0.813,5085,1
+GO:0017112,"Rab guanyl-nucleotide exchange factor activity",0.012%,null,null,3.215,-2.9834,0.841,0.763,5085,1
+GO:0005261,"cation channel activity",0.299%,-0.741,-0.198,4.625,-1.4746,0.924,0.000,5261,0
+GO:0004970,"ionotropic glutamate receptor activity",0.075%,null,null,4.026,-1.4066,0.907,0.776,5261,1
+GO:0022843,"voltage-gated cation channel activity",0.135%,null,null,4.279,-1.4342,0.924,0.812,5261,1
+GO:0008066,"glutamate receptor activity",0.078%, 3.689,-5.220,4.043,-1.9055,0.952,0.000,8066,0
+GO:0008092,"cytoskeletal protein binding",0.708%,-3.350, 4.558,4.999,-5.2455,0.706,0.000,8092,0
+GO:0017048,"Rho GTPase binding",0.031%,null,null,3.643,-1.7747,0.679,0.889,8092,1
+GO:1990782,"protein tyrosine kinase binding",0.013%,null,null,3.267,-2.0372,0.698,0.829,8092,1
+GO:0019900,"kinase binding",0.164%,null,null,4.364,-3.6178,0.664,0.786,8092,1
+GO:0017016,"Ras GTPase binding",0.149%,null,null,4.323,-3.9215,0.651,0.521,8092,1
+GO:0019901,"protein kinase binding",0.149%,null,null,4.321,-2.9473,0.658,0.777,8092,1
+GO:0019904,"protein domain specific binding",0.147%,null,null,4.315,-1.8668,0.733,0.520,8092,1
+GO:0017137,"Rab GTPase binding",0.048%,null,null,3.832,-1.9374,0.672,0.916,8092,1
+GO:0044390,"ubiquitin-like protein conjugating enzyme binding",0.012%,null,null,3.242,-1.3579,0.707,0.652,8092,1
+GO:0051020,"GTPase binding",0.159%,null,null,4.349,-3.9215,0.665,0.780,8092,1
+GO:0030971,"receptor tyrosine kinase binding",0.012%,null,null,3.226,-1.6792,0.686,0.824,8092,1
+GO:0042802,"identical protein binding",0.400%,null,null,4.751,-1.9003,0.716,0.570,8092,1
+GO:0031267,"small GTPase binding",0.152%,null,null,4.331,-3.6438,0.651,0.990,8092,1
+GO:0016791,"phosphatase activity",1.017%,-2.225,-5.598,5.156,-2.7095,0.859,0.000,16791,0
+GO:0042578,"phosphoric ester hydrolase activity",1.364%,null,null,5.283,-2.3706,0.856,0.659,16791,1
+GO:0004672,"protein kinase activity",3.390%, 5.571, 1.459,5.679,-2.7058,0.802,0.036,4672,0
+GO:0016301,"kinase activity",6.056%,null,null,5.931,-1.6809,0.810,0.770,4672,1
+GO:0016773,"phosphotransferase activity, alcohol group as acceptor",4.703%,null,null,5.821,-2.1250,0.814,0.700,4672,1
+GO:0004674,"protein serine/threonine kinase activity",0.996%,null,null,5.147,-1.8681,0.814,0.729,4672,1
+GO:0004712,"protein serine/threonine/tyrosine kinase activity",0.028%,null,null,3.596,-1.9215,0.851,0.504,4672,1
+GO:0004713,"protein tyrosine kinase activity",0.138%,null,null,4.288,-2.0686,0.837,0.584,4672,1
+GO:0008144,"drug binding",0.178%, 5.451,-5.689,4.400,-1.7462,0.931,0.046,8144,0
+GO:0003697,"single-stranded DNA binding",0.219%,-6.470,-3.087,4.490,-1.3899,0.917,0.047,3697,0
+GO:0016597,"amino acid binding",0.387%,-7.005, 0.136,4.736,-2.3605,0.862,0.049,16597,0
+GO:0016595,"glutamate binding",0.001%,null,null,2.117,-2.0686,0.899,0.583,16597,1
+GO:0044877,"macromolecular complex binding",0.740%, 3.480, 6.588,5.018,-1.6529,0.926,0.053,44877,0
+GO:0061630,"ubiquitin protein ligase activity",0.093%, 5.747,-1.033,4.117,-2.6029,0.856,0.238,61630,0
+GO:0061659,"ubiquitin-like protein ligase activity",0.094%,null,null,4.123,-2.7975,0.856,0.797,61630,1
+GO:0004842,"ubiquitin-protein transferase activity",0.352%,null,null,4.695,-2.7095,0.845,0.881,61630,1
+GO:0003924,"GTPase activity",1.135%,-0.398,-6.257,5.204,-2.3422,0.831,0.257,3924,0
+GO:0016818,"hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides",7.190%,null,null,6.005,-3.4536,0.800,0.925,3924,1
+GO:0042623,"ATPase activity, coupled",2.501%,null,null,5.547,-2.0686,0.816,0.615,3924,1
+GO:0016462,"pyrophosphatase activity",7.130%,null,null,6.002,-3.4536,0.800,0.916,3924,1
+GO:0017111,"nucleoside-triphosphatase activity",6.774%,null,null,5.979,-3.2667,0.801,0.769,3924,1
+GO:0008094,"DNA-dependent ATPase activity",0.593%,null,null,4.922,-1.6602,0.837,0.669,3924,1
+GO:0019787,"ubiquitin-like protein transferase activity",0.378%, 6.604, 0.154,4.726,-2.6254,0.883,0.275,19787,0
+GO:0016788,"hydrolase activity, acting on ester bonds",4.643%,-1.036,-5.464,5.815,-2.0062,0.861,0.309,16788,0
+GO:0032555,"purine ribonucleotide binding",16.057%,-6.744,-0.736,6.354,-2.7095,0.792,0.329,32555,0
+GO:0017076,"purine nucleotide binding",16.107%,null,null,6.356,-2.7095,0.805,0.699,32555,1
+GO:0030554,"adenyl nucleotide binding",14.356%,null,null,6.306,-2.0418,0.798,0.813,32555,1
+GO:0035639,"purine ribonucleoside triphosphate binding",15.815%,null,null,6.348,-2.2057,0.806,0.695,32555,1
+GO:0032559,"adenyl ribonucleotide binding",14.309%,null,null,6.304,-2.0045,0.793,0.812,32555,1
+GO:0032553,"ribonucleotide binding",16.747%,null,null,6.372,-2.7095,0.797,0.804,32555,1
+GO:0005524,"ATP binding",14.125%,null,null,6.299,-1.6655,0.794,0.852,32555,1
+GO:0050733,"RS domain binding",0.001%,-4.252, 4.063,2.155,-1.4636,0.782,0.363,50733,0
+GO:0017124,"SH3 domain binding",0.014%,null,null,3.289,-1.3642,0.755,0.639,50733,1
+GO:0035254,"glutamate receptor binding",0.004%,-2.560, 4.925,2.742,-1.9003,0.765,0.395,35254,0
+GO:0030331,"estrogen receptor binding",0.006%,null,null,2.911,-1.8668,0.761,0.547,35254,1
+GO:0016817,"hydrolase activity, acting on acid anhydrides",7.223%,-1.343,-6.187,6.007,-3.4536,0.855,0.409,16817,0
+GO:0016772,"transferase activity, transferring phosphorus-containing groups",8.504%, 5.534, 0.452,6.078,-2.3605,0.852,0.421,16772,0
+GO:0019894,"kinesin binding",0.010%,-3.264, 5.451,3.157,-2.3706,0.761,0.422,19894,0
+GO:0003779,"actin binding",0.326%,null,null,4.662,-2.2057,0.713,0.659,19894,1
+GO:0004690,"cyclic nucleotide-dependent protein kinase activity",0.008%, 5.014, 2.416,3.069,-1.5479,0.857,0.456,4690,0
+GO:0030674,"protein binding, bridging",0.045%,-3.911, 4.885,3.801,-1.3967,0.750,0.471,30674,0
+GO:0004691,"cAMP-dependent protein kinase activity",0.005%, 5.490, 2.733,2.853,-1.5479,0.860,0.473,4691,0
+GO:0008409,"5'-3' exonuclease activity",0.080%,-2.833,-5.384,4.053,-1.4342,0.881,0.500,8409,0
