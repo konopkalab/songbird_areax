@@ -1,7 +1,7 @@
 # Single-nucleus transcriptomics in Area X of male zebra finches (_Taeniopygia guttata_)
 Resources for single nucleus RNA-sequencing data analysis presented in:
 
-Xiao, L., Merullo, D. P., Cao, M., Co, M., Kulkarni, A., Konopka, G., & Roberts, T. F. (2020). Expression of FoxP2 in the basal ganglia regulates vocal motor sequences in the adult songbird. _BioRxiv_. https://doi.org/10.1101/2020.03.14.991042
+Xiao, L., Merullo, D. P., Cao, M., Co, M., Kulkarni, A., Konopka, G., & Roberts, T. F. (2020). Expression of FoxP2 in the basal ganglia regulates vocal motor sequences in the adult songbird. _Nature Communications_. https://doi.org/10.1038/s41467-021-22918-2
 
 # Directories
 
